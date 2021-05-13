@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.52591b4c.chunk.css",
+    "main.js": "/repository-name/static/js/main.51c22364.chunk.js",
+    "main.js.map": "/repository-name/static/js/main.51c22364.chunk.js.map",
+    "runtime-main.js": "/repository-name/static/js/runtime-main.c59f3843.js",
+    "runtime-main.js.map": "/repository-name/static/js/runtime-main.c59f3843.js.map",
+    "static/js/2.527c90c5.chunk.js": "/repository-name/static/js/2.527c90c5.chunk.js",
+    "static/js/2.527c90c5.chunk.js.map": "/repository-name/static/js/2.527c90c5.chunk.js.map",
+    "static/js/3.1d043a1b.chunk.js": "/repository-name/static/js/3.1d043a1b.chunk.js",
+    "static/js/3.1d043a1b.chunk.js.map": "/repository-name/static/js/3.1d043a1b.chunk.js.map",
+    "index.html": "/repository-name/index.html",
+    "static/css/main.52591b4c.chunk.css.map": "/repository-name/static/css/main.52591b4c.chunk.css.map",
+    "static/js/2.527c90c5.chunk.js.LICENSE.txt": "/repository-name/static/js/2.527c90c5.chunk.js.LICENSE.txt",
+    "static/media/logo.8d16ff4e.gif": "/repository-name/static/media/logo.8d16ff4e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c59f3843.js",
+    "static/js/2.527c90c5.chunk.js",
+    "static/css/main.52591b4c.chunk.css",
+    "static/js/main.51c22364.chunk.js"
+  ]
+}
